@@ -91,6 +91,17 @@ This section demonstrates the dataset used to train and evaluate DeepTurbid.
 https://github.com/user-attachments/assets/fd252b6e-59f0-4e0b-8916-2c618069cad9
 
 
+![marker_4_q](https://github.com/user-attachments/assets/5bdec864-b35b-472e-9f8c-292c6aa94c1a)![marker_999_manual](https://github.com/user-attachments/assets/0c57c094-6437-4b3e-a646-144be738f3cb)
+![marker_123_roi_expanded_ids](https://github.com/user-attachments/assets/8b560849-c358-48af-a25f-bf42016dbe5f)
+![marker_123_roi_expanded](https://github.com/user-attachments/assets/e0e3d3b7-5d75-4264-a269-51713b36ac2d)
+![marker_123_q](https://github.com/user-attachments/assets/c30c4c57-d496-420a-9329-93cabd80129c)
+![marker_123_bb](https://github.com/user-attachments/assets/49501796-ba93-43aa-bff2-b817e14f264c)
+![marker_4_q_ids](https://github.com/user-attachments/assets/24e25f6c-ff47-4882-aa65-27073a84754c)
+
+
+
+
+
 
 
 
